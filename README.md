@@ -7,7 +7,9 @@ This application runs a node.js server on the BrightSign, and uses a local webso
 
 ### Run the server. For example, on your laptop:
 * Install NodeJS
-* In the "server" directory, run "node server.js"
+* In the "server" directory:
+* Run "npm install"
+* Run "node server.js"
 * Note the IP address of your laptop
 * Edit the following line in index.html to reflect the above IP address:
 
