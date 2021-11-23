@@ -13,7 +13,7 @@ This application runs a node.js server on the BrightSign, and uses a local webso
 * Note the IP address of your laptop
 * Edit the following line in index.html to reflect the above IP address:
 
-var wsUri = "wss://<ip address of server>:81/";
+var wsUri = "wss://==ip address of server==:81/";
 
 ### Configure your BrightSign player:
 * Put the files "autorun.brs" and "index.html" on an SD card
