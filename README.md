@@ -11,9 +11,9 @@ This application runs a node.js server on the BrightSign, and uses a local webso
 * Run "npm install"
 * Run "node server.js"
 * Note the IP address of your laptop
-* Edit the following line in index.html to reflect the above IP address:
+* Edit the following line in index.html to reflect the above IP address instead of 10.0.1.1:
 
-var wsUri = "wss://==ip address of server==:81/";
+var wsUri = "wss://10.0.1.1:81/";
 
 ### Configure your BrightSign player:
 * Put the files "autorun.brs" and "index.html" on an SD card
