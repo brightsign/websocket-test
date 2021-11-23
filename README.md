@@ -18,4 +18,4 @@ var wsUri = "wss://10.0.1.1:81/";
 ### Configure your BrightSign player:
 * Put the files "autorun.brs" and "index.html" on an SD card
 * Connect the BrightSign player to the internet, and power it up
-* You should see "RESPONSE: WebSocket rocks" on the connected display.
+* You should see "RESPONSE: Hi, you sent me WebSocket rocks" on the connected display.
